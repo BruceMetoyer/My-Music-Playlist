@@ -1,0 +1,1 @@
+This file contains my HTML code and images in the index file. The HTML creates a webpage of my favorite artists, songs, and albums. All of the songs have links to YouTube so that you can hear the music yourself. At the end of the webpage, it asks you a small variety of questions about your music taste.
